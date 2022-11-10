@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 [patika profil linkim](https://app.patika.dev/meneshdm)
-
+![](https://github.com/meneshdm/kodluyoruzilkrepo/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20-%202022-11-10%2021-39-27.png)
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzun linki gelecek)
 
